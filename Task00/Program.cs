@@ -20,6 +20,6 @@ else if (number == 1) System.Console.WriteLine();
 else System.Console.WriteLine();
 
 
-int n = 113;
-int r = 113 / 10; // 113 / 100 = 1
-int r = 113 % 2; // 113 % 10 = 3
+// int n = 113;
+// int r = 113 / 10; // 113 / 100 = 1
+// int r = 113 % 2; // 113 % 10 = 3
